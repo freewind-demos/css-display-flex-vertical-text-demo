@@ -1,8 +1,8 @@
-Css Hello World Demo
-====================
+Css Display Flex Vertical Text Demo
+===================================
 
-Use css in html pages.
+通过`display:flex`让其中的文字在竖直方向上居中。
 
-Open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
+```
+npm run demo
+```

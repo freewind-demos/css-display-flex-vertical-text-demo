@@ -1,9 +1,15 @@
 #main {
-    width: 600px;
-    height: 400px;
-    background-color: #EEEEEE;
-    font-size: 40px;
-    line-height: 400px;
-    text-align: center;
-    margin: 0 auto;
+  width: 600px;
+  height: 400px;
+  border: 1px solid green;
+
+  font-size: 40px;
+
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+}
+
+#main > div {
+
 }
